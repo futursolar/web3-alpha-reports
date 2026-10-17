@@ -27,7 +27,7 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 赛道分类 | RedKoi 实盘终审判定 | 研报全文直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **2026-10-17** | **Bordrless** | `$BORDR` | Solana / Token Standard / DEX | 💡 [极客观察 · 二级严禁左侧接盘 · 仅微额交互生态] | [📖 查看研报](./reports/2026-10-17_bordrless.md) |
+| **2026-10-17** | **Bordrless** | `$BORDR` | Solana / Token Standard / DEX | ❌ **[鬼城发射台 · 业务断崖归零 · 彻底放弃]** | [📖 查看研报](./reports/2026-10-17_bordrless.md) |
 | **2026-10-16** | **Metric** | `-- (未发币)` | DeFi / PropAMM / RWA | 🔥 [顶级基础设施革新 · 强烈关注早期交互与流动性积分] | [📖 查看研报](./reports/2026-10-16_metric.md) |
 | **2026-10-16** | **Trench.com** | `未发币` | Solana / Launchpad | 💤 [平庸套壳 · 无二浪可能 · 彻底忽略] | [📖 查看研报](./reports/2026-10-16_trench.md) |
 | **2026-10-16** | **1win** | `$1WIN` | GambleFi / Solana / TG | ⚠️ **[纯跟风收割盘 · 严禁接盘避免圣诞树收割]** | [📖 查看研报](./reports/2026-10-16_1win.md) |
