@@ -27,6 +27,7 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 赛道分类 | RedKoi 实盘终审判定 | 研报全文直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2026-10-17** | **EQX Labs** | `HIP-1 RWA` | RWA, Hyperliquid, HIP-1, US Stocks, TradFi | 💎 [未发币优质标的 · 零成本/做市重点埋伏] | [📖 查看研报](./reports/2026-10-17_eqx-labs.md) |
 | **2026-10-17** | **Bordrless** | `$BORDR` | Solana / Token Standard / DEX | ❌ **[鬼城发射台 · 业务断崖归零 · 彻底放弃]** | [📖 查看研报](./reports/2026-10-17_bordrless.md) |
 | **2026-10-16** | **Metric** | `-- (未发币)` | DeFi / PropAMM / RWA | 🔥 [顶级基础设施革新 · 强烈关注早期交互与流动性积分] | [📖 查看研报](./reports/2026-10-16_metric.md) |
 | **2026-10-16** | **Trench.com** | `未发币` | Solana / Launchpad | 💤 [平庸套壳 · 无二浪可能 · 彻底忽略] | [📖 查看研报](./reports/2026-10-16_trench.md) |
