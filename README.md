@@ -27,6 +27,7 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 赛道分类 | RedKoi 实盘终审判定 | 研报全文直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2026-10-20** | **SoDEX (SoSoValue)** | `SOSO` | Perp DEX / L1 / ValueChain / RWA | 🌟 [确定性二浪机会 · 重点关注入场点] | [📖 查看研报](./reports/2026-10-20_sodex.md) |
 | **2026-10-20** | **Giga Tenev** | `GIGATENEV` | Meme / Celebrity / Robinhood | ⚠️ [纯跟风空气盘 · 严禁接盘避免圣诞树收割] | [📖 查看研报](./reports/2026-10-20_gigatenev.md) |
 | **2026-10-20** | **Bordrless** | `BORDR` | Solana,DEX,Launchpad,Hook | 纯跟风空气盘 · 严禁接盘避免圣诞树收割 | [📖 查看研报](./reports/2026-10-20_bordrless.md) |
 | **2026-10-19** | **MNX** | `MNX` | DeFi,DEX,Derivatives,AI,MegaETH | 未发币优质标的·重点交互埋伏 | [📖 查看研报](./reports/2026-10-19_mnx.md) |
