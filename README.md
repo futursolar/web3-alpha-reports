@@ -27,6 +27,7 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 赛道分类 | RedKoi 实盘终审判定 | 研报全文直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2026-10-23** | **牛来人生** | `牛来人生` | BNB-Chain,Four.meme,Meme,Bonding-Curve,PVP | 纯收割投机空气盘·极高爆头风险·严禁接盘 | [📖 查看研报](./reports/2026-10-23_niulai-rensheng.md) |
 | **2026-10-23** | **Ptah Trade** | `PTAH` | BNB-Chain,AI-Agent,Binance-Agentic-Wallet,Crafting-Mining,NFT | 高溢价博傻与套利尾声·严禁二级高位追买 | [📖 查看研报](./reports/2026-10-23_ptah-trade.md) |
 | **2026-10-22** | **Dataline** | `DLINE` | AI Agent / Data Network / Base / Oracle | 💎 [未发币优质标的 · 重点跟踪 Base 公开拍卖与生态交互] | [📖 查看研报](./reports/2026-10-22_dataline.md) |
 | **2026-10-22** | **InfiniFi** | `INFI` | DeFi / Structured Yield / Stablecoin | ⚠️ [纯跟风空气盘 · 严禁接盘避免圣诞树收割] | [📖 查看研报](./reports/2026-10-22_infinifi.md) |
