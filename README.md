@@ -27,6 +27,7 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 赛道分类 | RedKoi 实盘终审判定 | 研报全文直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2026-10-28** | **Daily.fun** | `DAILY` | SocialFi,Prediction,Polymarket | 💎 [未发币优质标的 · 零成本早期埋伏] | [📖 查看研报](./reports/2026-10-28_2026-10-28_daily-fun.md) |
 | **2026-10-27** | **Gang.fun** | `GANG` | AI Agent / Launchpad / BNB Chain | 🌟 [确定性二浪机会 · 重点关注入场点] | [📖 查看研报](./reports/2026-10-27_gang-fun.md) |
 | **2026-10-23** | **Pokecoin** | `POKECOIN` | Meme / Solana / RWA Satellite | ⚠️ [极小微盘土狗 · 纯空气挂钩 · 坚决回避 / 严禁重仓接盘] | [📖 查看研报](./reports/2026-10-23_pokecoin-solana.md) |
 | **2026-10-23** | **MetaOne (MTO / Meta1)** | `MTO` | BNB-Chain,AI-Gaming,Prompt-to-Game,MEXC,Airdrop | 纯二级控盘收割盘·空投抛压踩踏期·坚决回避现货 | [📖 查看研报](./reports/2026-10-23_metaone-mto.md) |
