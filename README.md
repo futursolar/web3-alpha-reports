@@ -27,6 +27,7 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 赛道分类 | RedKoi 实盘终审判定 | 研报全文直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2026-11-04** | **YieldFields_RH** | `Genesis-NFT` | Web3 Alpha | [🚀 早期重点 (pretoken-yieldfields_rh)] | [📖 查看研报](./reports/2026-11-04_pretoken-yieldfields_rh-alpha-report.md) |
 | **2026-11-04** | **clawpumptech** | `Genesis-NFT` | Web3 Alpha | [🚀 早期重点 (pretoken-clawpumptech)] | [📖 查看研报](./reports/2026-11-04_pretoken-clawpumptech-alpha-report.md) |
 | **2026-11-03** | **BOXA** | `BOXA` | Web3 Alpha | [🚀 早期重点 (boxa-6qHtAv)] | [📖 查看研报](./reports/2026-11-03_boxa-6qHtAv-alpha-report.md) |
 | **2026-10-28** | **Pepe** | `PEPE` | Meme / Ethereum | 🌟 [消息刺激型一浪脉冲 · 必须等待二浪回踩确认] | [📖 查看研报](./reports/2026-10-28_pepe-wave2.md) |
