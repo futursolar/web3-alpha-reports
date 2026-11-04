@@ -116,6 +116,7 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 战斗类别 | 所属公链 | 实战裁决摘要 | 研报全文链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2026-11-04** | **Kalos** | `KALOS` | NFT / Launchpad / Hyperliquid Elysium | ⚠️ [仅限一级低成本打新 · 严禁二级追高接盘 · 谨防李鬼审计机构混淆] | [📖 查看研报](./reports/2026-11-04_kalos-fun.md) |
 | **2026-11-04** | **DarkHorse** | `RGB` | `🟢 做多` | Bitcoin RGB | 💎 [未发币打新关注 · 比特币原生 RGB 协议 · 零成本防白干] | [📖 直达研报](./reports/01_long/2026-11-04_rgbhorse-darkhorse-alpha.md) |
 | **2026-11-04** | **Reboot** | `Reboot` | `🟢 做多` | Base | 🌟 [中高确定性·强做市底池事件驱动波段标的 · 评级 82/100] | [📖 直达研报](./reports/01_long/2026-11-04_reboot-alpha.md) |
 | **2026-11-04** | **PUDDLE** | `PUDDLE` | `🟢 做多` | Solana | 🎯 [投机级打新关注 (SPECULATIVE BET) · 方案 C | [📖 直达研报](./reports/01_long/2026-11-04_puddle-alpha-scout.md) |
