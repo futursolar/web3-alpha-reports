@@ -1,7 +1,8 @@
 ### 🔍【项目五维穿透研报】Top Floor (@TopFloorFun)
 
-- **基本盘定位**：Meme Launchpad + 链上金库跟单交易协议 / 创世 NFT 阶段 / 正版官网 `https://topfloor.fun/` (白名单申领 `https://list.topfloor.fun/`)
-- **一句话本质**：打着“每个 Meme 都有专属交易员”旗号的发射台，核心是把代币交易税抽水交由交易员在 Hyperliquid 开高杠杆合约，试图用赌盘盈利包装成持币分红。
+- **基本盘定位**：罗宾汉链 (Robinhood Chain) 生态 Meme Launchpad + 链上金库跟单交易协议 / 创世 888 张 1/1 NFT 阶段 / 正版官网 `https://topfloor.fun/` (白名单申领 `https://list.topfloor.fun/`)
+- **底层公链**：**罗宾汉链 (Robinhood Chain)**（TVL 达 16.75 亿美元，头部龙头 CASHCAT/PONS 所在公链）+ 跨链对接 Hyperliquid 合约金库
+- **一句话本质**：罗宾汉链生态首发“每个 Meme 都有专属交易员”的发射台，核心是借 888 张 100% Free Mint 创世 NFT 汇聚生态打新流量，把代币交易税抽水交由交易员在 Hyperliquid 开高杠杆合约，试图用赌盘盈利包装成持币分红。
 
 ---
 
@@ -34,7 +35,9 @@
 - **李鬼域名重大排雷**：
   - **正版官方主站**：`https://topfloor.fun/` 与 `https://list.topfloor.fun/`；
   - **已发现的高仿李鬼站**：`topflo0r.fun`（含数字 0），若误点授权将直接被清空钱包！
-- **公链背景借壳**：官方宣称跨 Solana 与“Robinhood Chain”，经底层核验，Web3 并无任何所谓“Robinhood Chain”独立公链，纯属借 Robinhood 品牌知名度进行的概念包装。
+- **公链生态底座与宏观土壤**：
+  - 项目明确部署于**罗宾汉链 (Robinhood Chain)**，作为当前 TVL 达 16.75 亿美元的高流动性公链生态，其 888 张创世 1/1 NFT 获得罗宾汉链社区 Alphabot 公会重点打新推广（官方标注 100% Free Mint on Robinhood）；
+  - 需警惕的是，罗宾汉链当前呈现极度头部效应（PONS、CASHCAT 占据大部分存量买盘），长尾新项目若无硬核做市商承接，极易陷入流动性内卷。
 
 ---
 
