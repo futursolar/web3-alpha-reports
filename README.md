@@ -27,6 +27,7 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 赛道分类 | RedKoi 实盘终审判定 | 研报全文直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2026-11-04** | **meetmotes** | `Genesis-NFT` | Web3 Alpha | [🚀 早期重点 (pretoken-meetmotes)] | [📖 查看研报](./reports/2026-11-04_pretoken-meetmotes-alpha-report.md) |
 | **2026-11-04** | **KorProtocol** | `Genesis-NFT` | Web3 Alpha | [🚀 早期重点 (pretoken-korprotocol)] | [📖 查看研报](./reports/2026-11-04_pretoken-korprotocol-alpha-report.md) |
 | **2026-11-04** | **Pumpfun** | `Genesis-NFT` | Web3 Alpha | [🚀 早期重点 (pretoken-pumpfun)] | [📖 查看研报](./reports/2026-11-04_pretoken-pumpfun-alpha-report.md) |
 | **2026-11-04** | **YieldFields_RH** | `Genesis-NFT` | Web3 Alpha | [🚀 早期重点 (pretoken-yieldfields_rh)] | [📖 查看研报](./reports/2026-11-04_pretoken-yieldfields_rh-alpha-report.md) |
