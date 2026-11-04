@@ -116,6 +116,7 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 战斗类别 | 所属公链 | 实战裁决摘要 | 研报全文链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2026-11-05** | **novadotmarkets** | `NOVADO` | AutoAlpha / Elysium | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_novadotmarkets.md) |
 | **2026-11-05** | **1096361BTC** | `109636` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_1096361btc.md) |
 | **2026-11-04** | **Top Floor** | `TOPFLOOR` | Meme / Copy-trading / FreeMint | ⚠️ [仅限一级0成本Free Mint抽白 · 严禁二级接盘代币 · 严防topflo0r数字0李鬼钓鱼站] | [📖 查看研报](./reports/2026-11-04_topfloorfun.md) |
 | **2026-11-04** | **Kalos** | `KALOS` | NFT / Launchpad / Hyperliquid Elysium | ⚠️ [仅限一级低成本打新 · 严禁二级追高接盘 · 谨防李鬼审计机构混淆] | [📖 查看研报](./reports/2026-11-04_kalos-fun.md) |
