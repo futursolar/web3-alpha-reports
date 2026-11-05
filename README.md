@@ -124,6 +124,7 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 战斗类别 | 所属公链 | 实战裁决摘要 | 研报全文链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2026-11-05** | **MetaDAOProject** | `METADA` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_metadaoproject.md) |
 | **2026-11-05** | **RobinhoodCrypto** | `ROBINH` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_robinhoodcrypto.md) |
 | **2026-11-05** | **oolongperp** | `OOLONG` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_oolongperp.md) |
 | **2026-11-05** | **novadotmarkets** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-05_novadotmarkets.md) |
