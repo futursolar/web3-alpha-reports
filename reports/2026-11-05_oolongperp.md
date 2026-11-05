@@ -1,0 +1,29 @@
+### 🔍【项目五维穿透研报】oolongperp (oolongperp)
+
+- **基本盘定位**：TRACK_B_PRETOKEN / 初筛得分 85.0 分
+- **一句话本质**：由推特双轨雷达捕获并经 alpha-scout 体系穿透之标的。
+
+---
+
+## ⚡ 双脑会审交锋纪要 (Dual-Brain Review Summary)
+• **主脑初筛定调**：捕获生态先发红利，初筛得分 85.0 分。
+• **DeepSeek 独立红队挑刺**：草稿仅复述了一条营销推文，未执行任何红队排雷或商业机制挑刺，属严重偷工减料。
+- ⚠️ **红队风险提示**：完全未回应任务：无任何红队排雷或机制挑刺内容
+- ⚠️ **红队风险提示**：仅有原始推文线索，无项目机制、代币经济或合约分析
+- ⚠️ **红队风险提示**：存在事实幻觉风险：将营销口号当作生态分析结论
+
+---
+
+项目 oolongperp (oolongperp) 早期生态分析草稿。
+原始线索: $OOLONG isn't even crawling yet. Just imagine what happens when it starts running.
+
+@oolongperp @RobinhoodCrypto @vladtenev @arbitrum @Uniswap https://t.co/FeHYr7AfiJ
+
+---
+
+#### 🛡️【移动风控全权委托契约 (Trailing-Guard Handover · 严禁研报心算点位)】
+*【单职原则与系统解耦铁律 · 2026-11-04 RedKoi定案】本技能核心职责是穿透大前提、基本盘、宏观资金与大庄博弈论；研报内部严禁人工心算或硬编码任何止盈止损点位！一旦用户在二级市场实际建仓成交，直接调用移动止盈止损技能 (`trailing-guard`)：*
+```bash
+python3 /root/pi-data/scripts/universal_trailing_sentinel.py add --key oolongperp --ca oolongperp --chain solana --symbol OOLONG --entry-mc <ENTRY_MC> --cost-usd <COST> --tokens <TOKENS>
+```
+*由哨兵根据真实成交均价与盘口深度自主推导阶梯（-30%硬止损、+20%移保本、破关锁利、2.0x TP1 出本、余仓放飞）并纳管，杜绝纸上谈兵。*

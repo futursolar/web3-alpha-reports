@@ -10,7 +10,7 @@
 
 | 实战专区 | 定位与核心作战原则 | 收录研报 | 最新研报直达 |
 | :--- | :--- | :---: | :--- |
-| **🟢 做多研报专区** | **现货二浪爆发 · 起涨底座建仓 · 低成本白嫖空投**<br>结构底座硬截断、斐波那契科学出本、纯利润单调递增放飞 | **43 篇** | [🚀 进入做多专区目录](./reports/01_long/) |
+| **🟢 做多研报专区** | **现货二浪爆发 · 起涨底座建仓 · 低成本白嫖空投**<br>结构底座硬截断、斐波那契科学出本、纯利润单调递增放飞 | **51 篇** | [🚀 进入做多专区目录](./reports/01_long/) |
 | **🔴 做空与排雷专区** | **浑水式排雷 · 资金盘曝光 · 蹭概念借壳打假**<br>穿透合约猫腻、虚假营销一票否决、合约高位做空狙击 | **26 篇** | [🛡️ 进入做空与排雷目录](./reports/02_short/) |
 | **🌐 宏观与公链生态** | **真实 TVL 机构生态穿透 · 黑天鹅安全事件深度推演**<br>穿透公链资金土壤与借贷质押结构，杜绝长尾流动性踩踏 | **2 篇** | [📊 进入宏观全景目录](./reports/03_macro/) |
 
@@ -22,6 +22,11 @@
 
 | 报告日期 | 项目标的 | 代币代码 | 所属公链/生态 | RedKoi 实战终审裁决 | 研报全文直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2026-11-05** | **novadotmarkets** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-05_novadotmarkets.md) |
+| **2026-11-05** | **binance-web3-wallet-support-hyperevm** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-05_binance-web3-wallet-support-hyperevm.md) |
+| **2026-11-05** | **1096361btc** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-05_1096361btc.md) |
+| **2026-11-04** | **topfloorfun** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-04_topfloorfun.md) |
+| **2026-11-04** | **topfloorfun** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-04_topfloorfun-alpha.md) |
 | **2026-11-04** | **DarkHorse** | `RGB` | Bitcoin RGB | 💎 [未发币打新关注 · 比特币原生 RGB 协议 · 零成本防白干] | [📖 查看研报](./reports/01_long/2026-11-04_rgbhorse-darkhorse-alpha.md) |
 | **2026-11-04** | **Reboot** | `Reboot` | Base | 🌟 [中高确定性·强做市底池事件驱动波段标的 · 评级 82/100] | [📖 查看研报](./reports/01_long/2026-11-04_reboot-alpha.md) |
 | **2026-11-04** | **PUDDLE** | `PUDDLE` | Solana | 🎯 [投机级打新关注 (SPECULATIVE BET) · 方案 C 移动止损托管] | [📖 查看研报](./reports/01_long/2026-11-04_puddle-alpha-scout.md) |
@@ -29,6 +34,9 @@
 | **2026-11-04** | **Pump.fun** | `PUMP` | Solana | 💎 [头部发射台新功能上线 · 重点跟踪生态积分] | [📖 查看研报](./reports/01_long/2026-11-04_pretoken-pumpfun-alpha-report.md) |
 | **2026-11-04** | **KorProtocol** | `KOR` | Base | 🚀 [早期 AI 创意资产打新 · 跟踪官方交互节点] | [📖 查看研报](./reports/01_long/2026-11-04_pretoken-korprotocol-alpha-report.md) |
 | **2026-11-04** | **ClawPump** | `CLAW` | Base | 🚀 [微盘发射打新 · 隔离小号低成本参与] | [📖 查看研报](./reports/01_long/2026-11-04_pretoken-clawpumptech-alpha-report.md) |
+| **2026-11-04** | **kalos-fun** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-04_kalos-fun.md) |
+| **2026-11-04** | **kalos-fun** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-04_kalos-fun-alpha.md) |
+| **2026-11-04** | **fungolabs-nft** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-04_fungolabs-nft.md) |
 | **2026-11-03** | **BOXA (现货)** | `BOXA` | Solana | 🌟 [超跌反弹博弈 · 极小机动仓按移动止损严格执行] | [📖 查看研报](./reports/01_long/2026-11-03_boxa-6qHtAv-alpha-report.md) |
 | **2026-11-02** | **Solana Early Meme** | `JM9R` | Solana | 🎯 [内盘突击标的 · 破位硬止损] | [📖 查看研报](./reports/01_long/2026-11-02_jm9r9pjfypamebhgzpbdezjiysn2pfyz5tzdds5pump-alpha.md) |
 | **2026-11-02** | **FungoLabs** | `FUNGO` | Ethereum | 💎 [未发币创世 NFT 打新 · 早期白名单跟踪] | [📖 查看研报](./reports/01_long/2026-11-02_fungo-alpha.md) |
@@ -116,10 +124,12 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 战斗类别 | 所属公链 | 实战裁决摘要 | 研报全文链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **2026-11-05** | **novadotmarkets** | `NOVADO` | AutoAlpha / Elysium | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_novadotmarkets.md) |
-| **2026-11-05** | **1096361BTC** | `109636` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_1096361btc.md) |
-| **2026-11-04** | **Top Floor** | `TOPFLOOR` | Meme / Copy-trading / FreeMint | ⚠️ [仅限一级0成本Free Mint抽白 · 严禁二级接盘代币 · 严防topflo0r数字0李鬼钓鱼站] | [📖 查看研报](./reports/2026-11-04_topfloorfun.md) |
-| **2026-11-04** | **Kalos** | `KALOS` | NFT / Launchpad / Hyperliquid Elysium | ⚠️ [仅限一级低成本打新 · 严禁二级追高接盘 · 谨防李鬼审计机构混淆] | [📖 查看研报](./reports/2026-11-04_kalos-fun.md) |
+| **2026-11-05** | **oolongperp** | `OOLONG` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_oolongperp.md) |
+| **2026-11-05** | **novadotmarkets** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-05_novadotmarkets.md) |
+| **2026-11-05** | **binance-web3-wallet-support-hyperevm** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-05_binance-web3-wallet-support-hyperevm.md) |
+| **2026-11-05** | **1096361btc** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-05_1096361btc.md) |
+| **2026-11-04** | **topfloorfun** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-04_topfloorfun.md) |
+| **2026-11-04** | **topfloorfun** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-04_topfloorfun-alpha.md) |
 | **2026-11-04** | **DarkHorse** | `RGB` | `🟢 做多` | Bitcoin RGB | 💎 [未发币打新关注 · 比特币原生 RGB 协议 · 零成本防白干] | [📖 直达研报](./reports/01_long/2026-11-04_rgbhorse-darkhorse-alpha.md) |
 | **2026-11-04** | **Reboot** | `Reboot` | `🟢 做多` | Base | 🌟 [中高确定性·强做市底池事件驱动波段标的 · 评级 82/100] | [📖 直达研报](./reports/01_long/2026-11-04_reboot-alpha.md) |
 | **2026-11-04** | **PUDDLE** | `PUDDLE` | `🟢 做多` | Solana | 🎯 [投机级打新关注 (SPECULATIVE BET) · 方案 C | [📖 直达研报](./reports/01_long/2026-11-04_puddle-alpha-scout.md) |
@@ -129,6 +139,9 @@
 | **2026-11-04** | **KorProtocol** | `KOR` | `🟢 做多` | Base | 🚀 [早期 AI 创意资产打新 · 跟踪官方交互节点] | [📖 直达研报](./reports/01_long/2026-11-04_pretoken-korprotocol-alpha-report.md) |
 | **2026-11-04** | **ClawPump** | `CLAW` | `🟢 做多` | Base | 🚀 [微盘发射打新 · 隔离小号低成本参与] | [📖 直达研报](./reports/01_long/2026-11-04_pretoken-clawpumptech-alpha-report.md) |
 | **2026-11-04** | **MLX Network** | `MLX` | `🔴 做空/排雷` | Solana / Apple | 🔴 [碰瓷苹果官方框架的单机资金盘 · 高危评分 95/100 · 坚 | [📖 直达研报](./reports/02_short/2026-11-04_mlx-alpha.md) |
+| **2026-11-04** | **kalos-fun** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-04_kalos-fun.md) |
+| **2026-11-04** | **kalos-fun** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-04_kalos-fun-alpha.md) |
+| **2026-11-04** | **fungolabs-nft** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-04_fungolabs-nft.md) |
 | **2026-11-03** | **GenesisL1** | `L1` | `🔴 做空/排雷` | Multi-Chain | ⚠️ [老旧公链套壳 · 无真实生态活跃 · 坚决回避 / 逢高做空] | [📖 直达研报](./reports/02_short/2026-11-03_genesisl1-alpha.md) |
 | **2026-11-03** | **BOXA (现货)** | `BOXA` | `🟢 做多` | Solana | 🌟 [超跌反弹博弈 · 极小机动仓按移动止损严格执行] | [📖 直达研报](./reports/01_long/2026-11-03_boxa-6qHtAv-alpha-report.md) |
 | **2026-11-02** | **UNI Fake** | `UNI-FAKE` | `🔴 做空/排雷` | Elysium | ⚠️ [高仿冒名顶替盘 · 冒用 Uniswap 商标 · 坚决排雷回 | [📖 直达研报](./reports/02_short/2026-11-02_uni-project-judge.md) |
