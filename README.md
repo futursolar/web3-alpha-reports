@@ -124,6 +124,7 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 战斗类别 | 所属公链 | 实战裁决摘要 | 研报全文链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2026-11-05** | **SolRocketPad** | `SOLROC` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_solrocketpad.md) |
 | **2026-11-05** | **stambouli_o1** | `STAMBO` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_stambouli_o1.md) |
 | **2026-11-05** | **AscendLaunch** | `ASCEND` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_ascendlaunch.md) |
 | **2026-11-05** | **MetaDAOProject** | `METADA` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_metadaoproject.md) |
