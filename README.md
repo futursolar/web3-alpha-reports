@@ -10,7 +10,7 @@
 
 | 实战专区 | 定位与核心作战原则 | 收录研报 | 最新研报直达 |
 | :--- | :--- | :---: | :--- |
-| **🟢 做多研报专区** | **现货二浪爆发 · 起涨底座建仓 · 低成本白嫖空投**<br>结构底座硬截断、斐波那契科学出本、纯利润单调递增放飞 | **51 篇** | [🚀 进入做多专区目录](./reports/01_long/) |
+| **🟢 做多研报专区** | **现货二浪爆发 · 起涨底座建仓 · 低成本白嫖空投**<br>结构底座硬截断、斐波那契科学出本、纯利润单调递增放飞 | **59 篇** | [🚀 进入做多专区目录](./reports/01_long/) |
 | **🔴 做空与排雷专区** | **浑水式排雷 · 资金盘曝光 · 蹭概念借壳打假**<br>穿透合约猫腻、虚假营销一票否决、合约高位做空狙击 | **26 篇** | [🛡️ 进入做空与排雷目录](./reports/02_short/) |
 | **🌐 宏观与公链生态** | **真实 TVL 机构生态穿透 · 黑天鹅安全事件深度推演**<br>穿透公链资金土壤与借贷质押结构，杜绝长尾流动性踩踏 | **2 篇** | [📊 进入宏观全景目录](./reports/03_macro/) |
 
@@ -22,8 +22,16 @@
 
 | 报告日期 | 项目标的 | 代币代码 | 所属公链/生态 | RedKoi 实战终审裁决 | 研报全文直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **2026-11-06** | **stambouli_o1** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-06_stambouli_o1.md) |
+| **2026-11-06** | **solrocketpad** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-06_solrocketpad.md) |
+| **2026-11-06** | **slopcash** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-06_slopcash.md) |
+| **2026-11-06** | **robinhoodcrypto** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-06_robinhoodcrypto.md) |
+| **2026-11-06** | **oolongperp** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-06_oolongperp.md) |
+| **2026-11-06** | **elysiumant** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-06_elysiumant.md) |
+| **2026-11-06** | **ascendlaunch** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-06_ascendlaunch.md) |
 | **2026-11-05** | **novadotmarkets** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-05_novadotmarkets.md) |
 | **2026-11-05** | **binance-web3-wallet-support-hyperevm** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-05_binance-web3-wallet-support-hyperevm.md) |
+| **2026-11-05** | **1609sat** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-05_1609sat.md) |
 | **2026-11-05** | **1096361btc** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-05_1096361btc.md) |
 | **2026-11-04** | **topfloorfun** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-04_topfloorfun.md) |
 | **2026-11-04** | **topfloorfun** | `--` | Multi-Chain | 🌟 [智库收录标的] | [📖 查看研报](./reports/01_long/2026-11-04_topfloorfun-alpha.md) |
@@ -124,22 +132,16 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 战斗类别 | 所属公链 | 实战裁决摘要 | 研报全文链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **2026-11-06** | **slopcash** | `SLOPCA` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-06_slopcash.md) |
-| **2026-11-06** | **AscendLaunch** | `ASCEND` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-06_ascendlaunch.md) |
-| **2026-11-06** | **stambouli_o1** | `STAMBO` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-06_stambouli_o1.md) |
-| **2026-11-06** | **RobinhoodCrypto** | `ROBINH` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-06_robinhoodcrypto.md) |
-| **2026-11-06** | **SolRocketPad** | `SOLROC` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-06_solrocketpad.md) |
-| **2026-11-06** | **oolongperp** | `OOLONG` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-06_oolongperp.md) |
-| **2026-11-06** | **elysiumant** | `ELYSIU` | AutoAlpha / Elysium | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-06_elysiumant.md) |
-| **2026-11-05** | **1609SAT** | `1609SA` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_1609sat.md) |
-| **2026-11-05** | **SolRocketPad** | `SOLROC` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_solrocketpad.md) |
-| **2026-11-05** | **stambouli_o1** | `STAMBO` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_stambouli_o1.md) |
-| **2026-11-05** | **AscendLaunch** | `ASCEND` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_ascendlaunch.md) |
-| **2026-11-05** | **MetaDAOProject** | `METADA` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_metadaoproject.md) |
-| **2026-11-05** | **RobinhoodCrypto** | `ROBINH` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_robinhoodcrypto.md) |
-| **2026-11-05** | **oolongperp** | `OOLONG` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-05_oolongperp.md) |
+| **2026-11-06** | **stambouli_o1** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-06_stambouli_o1.md) |
+| **2026-11-06** | **solrocketpad** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-06_solrocketpad.md) |
+| **2026-11-06** | **slopcash** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-06_slopcash.md) |
+| **2026-11-06** | **robinhoodcrypto** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-06_robinhoodcrypto.md) |
+| **2026-11-06** | **oolongperp** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-06_oolongperp.md) |
+| **2026-11-06** | **elysiumant** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-06_elysiumant.md) |
+| **2026-11-06** | **ascendlaunch** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-06_ascendlaunch.md) |
 | **2026-11-05** | **novadotmarkets** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-05_novadotmarkets.md) |
 | **2026-11-05** | **binance-web3-wallet-support-hyperevm** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-05_binance-web3-wallet-support-hyperevm.md) |
+| **2026-11-05** | **1609sat** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-05_1609sat.md) |
 | **2026-11-05** | **1096361btc** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-05_1096361btc.md) |
 | **2026-11-04** | **topfloorfun** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-04_topfloorfun.md) |
 | **2026-11-04** | **topfloorfun** | `--` | `🟢 做多` | Multi-Chain | 🌟 [智库收录标的] | [📖 直达研报](./reports/01_long/2026-11-04_topfloorfun-alpha.md) |
