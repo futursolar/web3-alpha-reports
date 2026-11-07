@@ -22,7 +22,7 @@
 
 | 报告日期 | 项目标的 | 代币代码 | 所属公链/生态 | RedKoi 实战终审裁决 | 研报全文直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **2026-11-07** | **umia_finance** | `--` | Multi-Chain | 按点位纪律严格执行 | [📖 查看研报](./reports/01_long/2026-11-07_umia_finance.md) |
+| **2026-11-07** | **flapdotsh** | `--` | Multi-Chain | 按点位纪律严格执行 | [📖 查看研报](./reports/01_long/2026-11-07_flapdotsh.md) |
 
 ---
 
@@ -48,8 +48,8 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 战斗类别 | 所属公链 | 实战裁决摘要 | 研报全文链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **2026-11-07** | **flapdotsh** | `FLAPDO` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-07_flapdotsh.md) |
-| **2026-11-07** | **umia_finance** | `--` | `🟢 做多` | Multi-Chain | 按点位纪律严格执行 | [📖 直达研报](./reports/01_long/2026-11-07_umia_finance.md) |
+| **2026-11-07** | **0xProject** | `0XPROJ` | AutoAlpha / Web3 | 🌟 [自动闭环定性：一级打新低成本博弈] | [📖 查看研报](./reports/2026-11-07_0xproject.md) |
+| **2026-11-07** | **flapdotsh** | `--` | `🟢 做多` | Multi-Chain | 按点位纪律严格执行 | [📖 直达研报](./reports/01_long/2026-11-07_flapdotsh.md) |
 
 ---
 
