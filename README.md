@@ -23,8 +23,8 @@
 | 报告日期 | 项目标的 | 代币代码 | 所属公链/生态 | RedKoi 实战终审裁决 | 研报全文直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **2026-11-09** | **testcoin-alpha** | `--` | Multi-Chain | 按点位纪律严格执行 | [📖 查看研报](./reports/01_long/2026-11-09_testcoin-alpha.md) |
+| **2026-11-09** | **galxe** | `--` | Multi-Chain | 按点位纪律严格执行 | [📖 查看研报](./reports/01_long/2026-11-09_galxe.md) |
 | **2026-11-09** | **forever-alpha** | `--` | Multi-Chain | 按点位纪律严格执行 | [📖 查看研报](./reports/01_long/2026-11-09_forever-alpha.md) |
-| **2026-11-09** | **candydao_leaf** | `--` | Multi-Chain | 按点位纪律严格执行 | [📖 查看研报](./reports/01_long/2026-11-09_candydao_leaf.md) |
 
 ---
 
@@ -50,10 +50,10 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 战斗类别 | 所属公链 | 实战裁决摘要 | 研报全文链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **2026-11-09** | **Galxe** | `GALXE` | AutoAlpha / Bsc | ⛔ 不要参与（叙事伪命题 / 抛压高危 / 坚决规避） | [📖 查看研报](./reports/2026-11-09_galxe.md) |
+| **2026-11-09** | **villainmonkey** | `VILLAI` | AutoAlpha / Solana | ⛔ 不要参与（叙事伪命题 / 抛压高危 / 坚决规避） | [📖 查看研报](./reports/2026-11-09_villainmonkey.md) |
 | **2026-11-09** | **testcoin-alpha** | `--` | `🟢 做多` | Multi-Chain | 按点位纪律严格执行 | [📖 直达研报](./reports/01_long/2026-11-09_testcoin-alpha.md) |
+| **2026-11-09** | **galxe** | `--` | `🟢 做多` | Multi-Chain | 按点位纪律严格执行 | [📖 直达研报](./reports/01_long/2026-11-09_galxe.md) |
 | **2026-11-09** | **forever-alpha** | `--` | `🟢 做多` | Multi-Chain | 按点位纪律严格执行 | [📖 直达研报](./reports/01_long/2026-11-09_forever-alpha.md) |
-| **2026-11-09** | **candydao_leaf** | `--` | `🟢 做多` | Multi-Chain | 按点位纪律严格执行 | [📖 直达研报](./reports/01_long/2026-11-09_candydao_leaf.md) |
 
 ---
 
