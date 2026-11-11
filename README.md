@@ -22,7 +22,7 @@
 
 | 报告日期 | 项目标的 | 代币代码 | 所属公链/生态 | RedKoi 实战终审裁决 | 研报全文直达 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **2026-11-11** | **arcus_xyz** | `--` | Multi-Chain | 按点位纪律严格执行 | [📖 查看研报](./reports/01_long/2026-11-11_arcus_xyz.md) |
+| **2026-11-11** | **surfcoderepeat** | `--` | Multi-Chain | 按点位纪律严格执行 | [📖 查看研报](./reports/01_long/2026-11-11_surfcoderepeat.md) |
 
 ---
 
@@ -48,8 +48,8 @@
 
 | 报告日期 | 项目名称 | 标的代币 | 战斗类别 | 所属公链 | 实战裁决摘要 | 研报全文链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **2026-11-11** | **surfcoderepeat** | `SURFCO` | AutoAlpha / Robinhood | 🔥 可加大仓位（高确定性击球区 / 重点介入） | [📖 查看研报](./reports/2026-11-11_surfcoderepeat.md) |
-| **2026-11-11** | **arcus_xyz** | `--` | `🟢 做多` | Multi-Chain | 按点位纪律严格执行 | [📖 直达研报](./reports/01_long/2026-11-11_arcus_xyz.md) |
+| **2026-11-11** | **Rhynotic** | `RHYNOT` | AutoAlpha / Solana | ⛔ 不要参与（叙事伪命题 / 抛压高危 / 坚决规避） | [📖 查看研报](./reports/2026-11-11_rhynotic.md) |
+| **2026-11-11** | **surfcoderepeat** | `--` | `🟢 做多` | Multi-Chain | 按点位纪律严格执行 | [📖 直达研报](./reports/01_long/2026-11-11_surfcoderepeat.md) |
 
 ---
 
